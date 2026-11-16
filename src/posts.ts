@@ -27,4 +27,12 @@ export const posts: Post[] = [
       'Kõigis seadmetes see siiski ei tööta – seepärast peab hea veebileht toimima ka ilma selleta.',
     ],
   },
+  {
+    // TODO: pealkiri, slug, kokkuvõte ja sisu lisatakse hiljem.
+    slug: 'uus-postitus',
+    title: 'Uus postitus',
+    date: '2026-11-16',
+    excerpt: 'Sisu tuleb peagi.',
+    body: ['Sisu tuleb peagi.'],
+  },
 ];
